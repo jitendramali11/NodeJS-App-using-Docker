@@ -1,0 +1,16 @@
+{
+    "name": "nodejsapp",
+    "version": "1.0.0",
+    "lockfileVersion": 3,
+    "requires": true,
+    "author": "test@example.com>",
+    "description": "Node.js on Docker",
+    "main": "server.js",
+    "packages": {},
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
